@@ -9,7 +9,6 @@
   <packaging>pom</packaging>
 
   <modules>
-    <!-- <module>bonita-</module> -->
-    <!-- <module>bonita-</module> -->
+    <module>bonita-connector-rest</module>
   </modules>
 </project>

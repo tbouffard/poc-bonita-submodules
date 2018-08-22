@@ -1,3 +1,6 @@
 [submodule "bonita-distrib"]
 	path = bonita-distrib
 	url = https://github.com/bonitasoft/bonita-distrib.git
+[submodule "connectors/bonita-connector-rest"]
+	path = connectors/bonita-connector-rest
+	url = https://github.com/bonitasoft/bonita-connector-rest.git
