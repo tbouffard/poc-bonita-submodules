@@ -1,0 +1,3 @@
+[submodule "bonita-distrib"]
+	path = bonita-distrib
+	url = https://github.com/bonitasoft/bonita-distrib.git
