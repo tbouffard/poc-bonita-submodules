@@ -4,3 +4,9 @@
 [submodule "connectors/bonita-connector-rest"]
 	path = connectors/bonita-connector-rest
 	url = https://github.com/bonitasoft/bonita-connector-rest.git
+[submodule "bonita-engine"]
+	path = bonita-engine
+	url = https://github.com/bonitasoft/bonita-engine
+[submodule "bonita-web"]
+	path = bonita-web
+	url = https://github.com/bonitasoft/bonita-web.git

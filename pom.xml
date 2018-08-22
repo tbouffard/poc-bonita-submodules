@@ -6,8 +6,10 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>connectors</module>
-    <!-- require bonita-web -->
-    <!-- <module>bonita-distrib</module> -->
+    <module>bonita-engine</module>
+    <module>bonita-web</module>
+    <module>bonita-distrib</module>
+    <!-- Studio part -->
+    <!-- <module>connectors</module> -->
   </modules>
 </project>
