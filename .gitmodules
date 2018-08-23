@@ -6,7 +6,10 @@
 	url = https://github.com/bonitasoft/bonita-connector-rest.git
 [submodule "bonita-engine"]
 	path = bonita-engine
-	url = https://github.com/bonitasoft/bonita-engine
+	url = https://github.com/bonitasoft/bonita-engine.git
 [submodule "bonita-web"]
 	path = bonita-web
 	url = https://github.com/bonitasoft/bonita-web.git
+[submodule "bonita-web-extensions"]
+	path = bonita-web-extensions
+	url = https://github.com/bonitasoft/bonita-web-extensions.git

@@ -8,7 +8,8 @@
   <modules>
     <module>bonita-engine</module>
     <module>bonita-web</module>
-    <module>bonita-distrib</module>
+    <module>bonita-web-extensions</module>
+    <!-- <module>bonita-distrib</module> -->
     <!-- Studio part -->
     <!-- <module>connectors</module> -->
   </modules>
