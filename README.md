@@ -4,6 +4,9 @@ It uses [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) so
 
 To build the project, run `./mvnw install -DskipTests -Ptests,dev`
 
+Notes about tests
+* we cannot use `-Dmaven.test.skip=true` as some jar with the tests classifier must be built for usage in other modules
+
 Note about profiles
 * `dev`: for bonita-web, don't build all GWT permutations
 * `tests`: for bonita-engine, build tests jar required by other modules
